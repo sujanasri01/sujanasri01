@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analytics projects using Power BI, Python, and SQL, along with Machine Learning applications for drought prediction.<br>Data Analytics, Business Intelligence, Machine Learning, and Data Visualization projects.<br>Advanced Machine Learning techniques, AI-driven analytics, and real-world data science projects.<br>Power BI, Python for Data Analysis, SQL, Machine Learning, and Explainable AI.<br>Power BI dashboards, SQL queries, Python data analysis, data visualization, and business insights.<br>I enjoy turning raw data into meaningful insights and interactive dashboards that help solve real-world problems.
+Data Analytics projects using Power BI, Python, and SQL, along with Machine Learning applications.<br>Data Analytics, Business Intelligence, Machine Learning, and Data Visualization projects.<br>Advanced Machine Learning techniques, AI-driven analytics, and real-world data science projects.<br>Power BI, Python for Data Analysis, SQL, Machine Learning, and Explainable AI.<br>Power BI dashboards, SQL queries, Python data analysis, data visualization, and business insights.<br>I enjoy turning raw data into meaningful insights and interactive dashboards that help solve real-world problems.
 
 
 # 💻 Tech Stack:
